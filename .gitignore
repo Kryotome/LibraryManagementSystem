@@ -1,1 +1,12 @@
+# Java
+*.class
+*.log
+*.jar
+/out/
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
 
